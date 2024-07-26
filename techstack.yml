@@ -1,0 +1,44 @@
+repo_name: SK963/Databases
+report_id: 4b6311ac461fc4fcc9477aca249c203c
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T16:15:49+00:00'
+requested_by: SK963
+provider: github
+branch: main
+detected_tools_count: 3
+tools:
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/SK963/Databases/blob/main/MySQL/01.Handling  Databases
+    & Tables.sql
+  detection_source: MySQL/01.Handling  Databases & Tables.sql
+  last_updated_by: SK963
+  last_updated_on: 2024-07-17 16:41:25.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/SK963/Databases
+  detection_source: Repo Metadata
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/SK963/Databases
+  detection_source: Repo Metadata
